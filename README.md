@@ -1,6 +1,7 @@
 # CS302 Python Programming Project
 This was a Python programming project I had to do in CS302 at Portland State University
 The project demonstrates my ability to do OOP in Python and utilize concepts like exception handling and unit testing via PyTest.
+I was also required to create a specification for this project. Full specification can be found here: https://docs.google.com/document/d/1RB-k4-5OngC-f2oGx0s9aVxdLFmRVJD9h1gqjg-HxEA/edit?usp=sharing
 
 Below is the readme file on how to utilize this program:
 # Welcome to the Pokemon Gacha Game
